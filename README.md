@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-pisey-485b48253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sai-pisey-485b48253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://github.com/SaiPisey2?tab=followers"><img src="https://img.shields.io/github/followers/SaiPisey2?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Followers" alt="Followers"></a>
   <a href="https://github.com/SaiPisey2?tab=repositories"><img src="https://img.shields.io/github/stars/SaiPisey2?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Stars" alt="Stars"></a>
   <img src="https://komarev.com/ghpvc/?username=SaiPisey2&style=for-the-badge&color=6f42c1&label=Profile+Views" alt="Profile views">
@@ -58,7 +58,7 @@ DevOps and MLOps Engineer with **4+ years** running **Machine Learning** and **L
 
 **Cloud & IaC**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -75,7 +75,7 @@ DevOps and MLOps Engineer with **4+ years** running **Machine Learning** and **L
 **MLOps & LLMOps**
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-345BB0?style=for-the-badge&logo=kubeflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-345BB0?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
