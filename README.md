@@ -28,14 +28,19 @@ DevOps and MLOps Engineer with **4+ years** running **Machine Learning** and **L
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubestronaut-CNCF-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubestronaut">
-  <img src="https://img.shields.io/badge/CKS-Certified%20Kubernetes%20Security%20Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKS">
-  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA">
-  <img src="https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20App%20Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD">
-  <img src="https://img.shields.io/badge/KCSA-Kubernetes%20Security%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KCSA">
-  <img src="https://img.shields.io/badge/KCNA-Kubernetes%20Cloud%20Native%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KCNA">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA">
-  <img src="https://img.shields.io/badge/ClickHouse-Certified-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse">
+  <a href="https://www.credly.com/badges/85851677-5ca9-4ffc-898c-9a2f1cbdc7da/public_url" title="Kubestronaut"><img height="104" src="https://images.credly.com/size/160x160/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut"></a>
+  <a href="https://www.credly.com/badges/4d4e936f-c72e-43d5-a505-a4aacaff44a6/public_url" title="CKS"><img height="104" src="https://images.credly.com/size/160x160/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS"></a>
+  <a href="https://www.credly.com/badges/3fdbc05b-0dff-430c-b02b-dc04f8103de4/public_url" title="CKA"><img height="104" src="https://images.credly.com/size/160x160/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA"></a>
+  <a href="https://www.credly.com/badges/c087a185-c715-4cdc-95af-088f7d37996b/public_url" title="CKAD"><img height="104" src="https://images.credly.com/size/160x160/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD"></a>
+  <a href="https://www.credly.com/badges/909a82ed-8395-4b76-beaf-2380bcdb221d/public_url" title="KCSA"><img height="104" src="https://images.credly.com/size/160x160/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA"></a>
+  <a href="https://www.credly.com/badges/b4cedc21-4875-4c7e-8497-3c4a811a2b5e/public_url" title="KCNA"><img height="104" src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA"></a>
+  <a href="https://www.credly.com/badges/1983ce65-811f-4bfb-af57-9309a248c3a5/public_url" title="AWS Solutions Architect – Associate"><img height="104" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect – Associate"></a>
+</p>
+
+<p align="center">
+  <b>Kubestronaut</b> — all five CNCF Kubernetes certifications (CKA, CKAD, CKS, KCNA, KCSA)<br>
+  Also <b>16 ClickHouse</b> and <b>4 Kong</b> course badges ·
+  <a href="https://www.credly.com/users/sai-pisey">full wallet on Credly</a>
 </p>
 
 ---
