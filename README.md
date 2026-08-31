@@ -134,4 +134,14 @@ Upstream fixes in CNCF and cloud-native projects:
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiPisey2/SaiPisey2/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiPisey2/SaiPisey2/output/snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/SaiPisey2/SaiPisey2/output/snake.svg">
+  </picture>
+</p>
+
+---
+
 <p align="center"><i>Ship it, measure it, page someone only when the error budget says so.</i></p>
