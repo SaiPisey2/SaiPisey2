@@ -116,7 +116,7 @@ Upstream fixes in CNCF and cloud-native projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="metrics/overview.svg" alt="GitHub overview">
+  <img width="60%" src="metrics/stats.svg" alt="Open source activity">
 </p>
 
 <p align="center">
