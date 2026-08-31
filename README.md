@@ -120,8 +120,7 @@ Upstream fixes in CNCF and cloud-native projects:
 </p>
 
 <p align="center">
-  <img width="49%" src="metrics/languages.svg" alt="Most used languages">
-  <img width="49%" src="metrics/achievements.svg" alt="Achievements">
+  <img width="60%" src="metrics/languages.svg" alt="Most used languages">
 </p>
 
 <p align="center">
