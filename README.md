@@ -116,19 +116,8 @@ Upstream fixes in CNCF and cloud-native projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="metrics/stats.svg" alt="Open source activity">
-</p>
-
-<p align="center">
-  <img width="60%" src="metrics/languages.svg" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="metrics/calendar.svg" alt="Contribution calendar">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiPisey2&hide_border=true&theme=tokyonight" alt="Contribution streak">
+  <img width="42%" src="metrics/stats.svg" alt="Open source activity">
+  <img width="42%" src="metrics/languages.svg" alt="Most used languages">
 </p>
 
 ---
