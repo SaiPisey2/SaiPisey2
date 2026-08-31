@@ -120,6 +120,10 @@ Upstream fixes in CNCF and cloud-native projects:
   <img width="42%" src="metrics/languages.svg" alt="Most used languages">
 </p>
 
+<p align="center">
+  <img width="85%" src="metrics/upstream.svg" alt="Upstream projects contributed to">
+</p>
+
 ---
 
 <p align="center">
