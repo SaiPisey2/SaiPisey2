@@ -115,6 +115,9 @@ Upstream fixes in CNCF and cloud-native projects:
 | [tektoncd/pipeline](https://github.com/tektoncd/pipeline) | [#10663](https://github.com/tektoncd/pipeline/pull/10663) | Windows step scripts escaping their PowerShell here-string |
 | [metallb/metallb](https://github.com/metallb/metallb) | [#3122](https://github.com/metallb/metallb/pull/3122) | ServiceMonitor relabeling docs using snake_case instead of camelCase |
 | [traefik/traefik](https://github.com/traefik/traefik) | [#13787](https://github.com/traefik/traefik/pull/13787) | `upstreamVHost` rewriting Host before auth, breaking `auth-signin` redirects |
+| [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | [#3523](https://github.com/oauth2-proxy/oauth2-proxy/pull/3523) | `insecure_oidc_allow_unverified_email` ignored for extra JWT issuers |
+| [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | [#8775](https://github.com/prometheus-operator/prometheus-operator/pull/8775) | Panic on Pushover receivers using `userKeyFile` or `tokenFile` |
+| [runatlantis/atlantis](https://github.com/runatlantis/atlantis) | [#6813](https://github.com/runatlantis/atlantis/pull/6813) | Plans not restored from the external store when the pull dir is empty |
 
 ---
 
