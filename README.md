@@ -34,6 +34,7 @@ DevOps and MLOps Engineer with **4+ years** running **Machine Learning** and **L
   <a href="https://www.credly.com/badges/c087a185-c715-4cdc-95af-088f7d37996b/public_url" title="CKAD"><img height="104" src="https://images.credly.com/size/160x160/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD"></a>
   <a href="https://www.credly.com/badges/909a82ed-8395-4b76-beaf-2380bcdb221d/public_url" title="KCSA"><img height="104" src="https://images.credly.com/size/160x160/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA"></a>
   <a href="https://www.credly.com/badges/b4cedc21-4875-4c7e-8497-3c4a811a2b5e/public_url" title="KCNA"><img height="104" src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA"></a>
+  <a href="https://www.credly.com/badges/1983ce65-811f-4bfb-af57-9309a248c3a5/public_url" title="AWS Solutions Architect – Associate"><img height="104" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect – Associate"></a>
 </p>
 
 <p align="center">
