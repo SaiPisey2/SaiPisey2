@@ -116,20 +116,20 @@ Upstream fixes in CNCF and cloud-native projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiPisey2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPisey2&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img src="metrics/overview.svg" alt="GitHub overview">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiPisey2&hide_border=true&theme=tokyonight" alt="Streak">
+  <img width="49%" src="metrics/languages.svg" alt="Most used languages">
+  <img width="49%" src="metrics/achievements.svg" alt="Achievements">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiPisey2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies">
+  <img src="metrics/calendar.svg" alt="Contribution calendar">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiPisey2&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph">
+  <img src="https://streak-stats.demolab.com?user=SaiPisey2&hide_border=true&theme=tokyonight" alt="Contribution streak">
 </p>
 
 ---
